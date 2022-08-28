@@ -1293,7 +1293,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrMUNNA-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/M0m3n-munn4/Approval.git").text
+	r1=requests.get("https://github.com/M0m3n-munn4/Approval/blob/main/munna-approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1306,7 +1306,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m MUNNA Toll Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m This Tool is Paid You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : Paid Tool \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
