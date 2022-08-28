@@ -392,15 +392,15 @@ logo = ("""\033[1;32m
 LOGO DILE KI FAS TAHA FABO?   \033
 __________________×______________________
   
-  Owner   :  MUNNA Islam
+  Owner    : MOMEM MUNNA
 
-  Github   :  M0m3n-munn4
+  Github   : M0m3n-munn4
 
-  Facebook : MUNNA
+  Facebook : MOMEN MUNNA
   
-  Youtube : MUNNA
+  Youtube  : MOMEN MUNNA
   
-  Contact : +8801979005554
+  Contact  : +8801979005554
 __________________×______________________\033[1;37m""")
 
 class Main:
