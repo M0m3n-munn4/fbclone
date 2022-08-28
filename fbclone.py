@@ -392,15 +392,15 @@ logo = ("""\033[1;32m
 LOGO DILE KI FAS TAHA FABO?   \033
 __________________×______________________
   
-  Owner   :  MOMEN MUNNA Islam
+  Owner    :  MOMEN MUNNA Islam
 
   Github   :  M0m3n-munn4
 
   Facebook : MOMEN MUNNA
   
-  Youtube : MOMEN MUNNA
+  Youtube  : MOMEN MUNNA
   
-  Contact : +8801979005554
+  Contact  : +8801979005554
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -417,16 +417,16 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
-		MOMEN MUNNA =input(" Choose : ")
-		if MOMEN MUNNA in ["1", "01"]:
+		MUNNA =input(" Choose : ")
+		if MUNNA in ["1", "01"]:
 			File()
-		if MOMEN MUNNA in ["2", "02"]:
+		if MUNNA in ["2", "02"]:
 			Public()
-		if MOMEN MUNNA in ["3", "03"]:
+		if MUNNA in ["3", "03"]:
 			os.system("python Dump.py")
-		if MOMEN MUNNA in ["4", "04"]:
+		if MUNNA in ["4", "04"]:
 			self.old()
-		if MOMEN MUNNA in ["5", "05"]:
+		if MUNNA in ["5", "05"]:
 			self.old2()
 			exit()
 		else:
