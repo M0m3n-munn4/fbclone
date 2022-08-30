@@ -1293,7 +1293,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrMUNNA-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/M0m3n-munn4/Approval/blob/main/munna-approval.txt").text
+	r1=requests.get("https://github.com/M0m3n-munn4/fbclone/edit/main/approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
